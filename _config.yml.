@@ -1,3 +1,10 @@
 title: "Mahesh Kandela - Data Engineer"
-description: "Portfolio of Mahesh Kandela - Data Engineering, Cloud, Big Data"
+description: "Portfolio of Mahesh Kandela"
 theme: jekyll-theme-cayman
+
+# Navigation Menu
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - contact.md
