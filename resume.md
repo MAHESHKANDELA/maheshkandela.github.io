@@ -32,5 +32,4 @@ Data Engineer with **3+ years** of experience designing and implementing **big d
 
 ## 📄 **Download My Resume**  
 📍 [Click here to download](./MAHESH-KANDELA-Resume-2025.pdf)
-
 [⬅ Back to Home](./)
