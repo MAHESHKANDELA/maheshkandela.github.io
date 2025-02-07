@@ -1,10 +1,8 @@
-
 ---
 title: "Mahesh Kandela - Data Engineer"
 layout: splash
 permalink: /
 ---
-
 # 👋 Hi, I'm Mahesh Kandela  
 ### 💻 Data Engineer | 3+ Years of Experience  
 
